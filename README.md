@@ -8,6 +8,16 @@ The Candidate Management System provides a centralized platform for candidate da
 
 It uses a React frontend, FastAPI backend, and PostgreSQL database to process candidate information, identify invalid submissions, and maintain reliable records.
 
+
+## 📸 Application Screenshots
+
+### Dashboard
+![Candidate Dashboard](screenshots/dashboard.png)
+
+### Candidate Management
+![Candidates Page](screenshots/candidates.png)
+
+
 ## ✨ Key Features
 
 - **Candidate Dashboard:** Overview of total, valid, invalid, and quarantined records.
